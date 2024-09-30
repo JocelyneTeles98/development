@@ -1,0 +1,50 @@
+body {
+    align-items: center;
+    background-color: #D5E1EF;
+    display: grid;
+    font-family: "Outfit", serif;
+    justify-content: center;
+    height: 100%;
+    min-height: 100vh;
+    overflow: hidden;
+    place-items: center;
+}
+
+footer {
+    text-align: center;
+}
+
+h1 {
+    color: #1F314F;
+    font-size: 22px;
+    font-weight: 700;
+    letter-spacing: 0px;
+    line-height: 120%;   
+}
+
+img {
+    border-radius: 20px;
+    width: 100%;
+}
+
+p {
+    color: #68778D;
+    font-size: 15px;
+    font-weight: 400;
+    letter-spacing: 0.2px;
+    line-height: 140%;
+}
+
+.qr-card {
+    background-color: #FFF;
+    border-radius: 20px;
+    box-shadow: 0 10px 40px #1F314F;
+    margin: 20px;
+    max-width: 320px;
+    padding: 16px 16px 40px 16px;
+    top: 25%;
+    text-align: center;
+}
+
+
+
